@@ -1,3 +1,4 @@
 this is just a intro file
 My name is shraddha 
 Azure is awsome
+Learnt a lot about azure functions and appservices
